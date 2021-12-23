@@ -1,0 +1,22 @@
+#nav{
+    opacity: 0.7;
+    width: 100%;
+}
+#name{
+    color: black;
+    align-items: center;
+    margin-left: 300px;
+}
+#title{
+    text-align: center;
+}
+#sss{
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-top: -20px;
+    margin-left: 400px;
+    margin-right: -20px;
+    width: 0%;
+    }
